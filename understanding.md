@@ -3,6 +3,8 @@ Typically, when people hear AI, the first thing they think of is robots. But rea
 
 | [Home](https://github.com/caelenwalker/MarkdownChallenge) | [Types of AI](https://github.com/caelenwalker/MarkdownChallenge/blob/main/types.md) | [Applications of AI](https://github.com/caelenwalker/MarkdownChallenge/blob/main/applications.md) |
 
+---------------------------------------------------
+
 > “The promise of artificial intelligence in medicine is to provide composite, panoramic views of individuals' medical data; to improve decision making; to avoid errors such as misdiagnosis and unnecessary procedures; to help in the ordering and interpretation of appropriate tests; and to recommend treatment.”
 
 ![ai-hospital](hospital-ai.jpg)
